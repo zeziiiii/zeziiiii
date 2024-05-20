@@ -7,5 +7,3 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-
-![Coding](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
